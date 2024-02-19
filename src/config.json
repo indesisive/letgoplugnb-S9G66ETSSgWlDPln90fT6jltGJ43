@@ -1,0 +1,123 @@
+{
+    "colors": {
+        "mainBckColor": "#08030d",
+        "secondaryBckColor": "#29062d",
+        "footerBckColor": "#29062d",
+        "bckGridColor": "#ffffff",
+        "mainTextColor": "#f8dcfa",
+        "secondaryTextColor": "#961914",
+        "accentTextColor": "#ffffff"
+    },
+    "socials": {
+        "sideTabBck": "#ffffff",
+        "sideTabBorder": "#000000",
+        "sideTabIconColor": "#e27c26",
+        "links": {
+            "youtubeUrl": "#",
+            "tiktokUrl": "",
+            "instagramUrl": "#",
+            "facebookUrl": "#"
+        }
+    },
+    "hero": {
+        "bigHeroText": "Meaningfull\nand BIG title",
+        "secondaryHeroText": "Here at X, we strive to fulfill the services you need. With great communication and reviews, we promise to serve you correctly."
+    },
+    "rundown": {
+        "title": "What we do:",
+        "content": {
+            "part1": {
+              "title": "Service 1",
+              "description": "Simplify your to-do list with our versatile handyman services. From home repairs to installations, our skilled professionals tackle a range of tasks, providing reliable and efficient solutions for your convenience."
+            },
+            "part2": {
+              "title": "Service 2",
+              "description": "Travel hassle-free with our reliable transportation services. Whether it's a quick ride to the airport or regular commuting needs, our fleet ensures punctuality, comfort, and safety for all your travel requirements."
+            },
+            "part3": {
+              "title": "Service 3",
+              "description": "Enjoy a pristine living or working environment with our top-notch cleaning services. Our experienced team uses industry-standard techniques and eco-friendly products to deliver thorough and reliable cleaning for homes, offices, and commercial spaces."
+            },
+            "part4": {
+              "title": "Service 4",
+              "description": "Make your special occasions memorable with our event planning expertise. From weddings to corporate gatherings, we handle logistics, coordination, and creative elements, ensuring a seamless and unforgettable event tailored to your vision."
+            }
+        },
+        "backgrounds": {
+            "rundownBck1": "#000000",
+            "rundownBck2": "#160403",
+            "rundownBck3": "#1e1e20"
+        }
+    },
+    "testimonials": {
+        "title":"Real Results From Real People:",
+        "cardColor1": "#3b003d",
+        "cardColor2": "#160017",
+        "cardTextColor": "#ffffff",
+        "reviews": [
+            {
+                "quote":
+                  "Amazing service! Quick and efficient. Staff was friendly. Will definitely be back. 5 stars!",
+                "name": "Alice Dickens",
+                "title": "⭐⭐⭐⭐⭐"
+              },
+            {
+                "quote":
+                  "Exceptional experience at this local gem! Impeccable service, cozy atmosphere, and a diverse menu. The chef's special was divine. Highly recommend for a delightful evening out.",
+                "name": "William Jones",
+                "title": "⭐⭐⭐⭐⭐"
+              },
+            {
+                "quote": "From the moment we stepped in, it felt magical. Attentive staff, delightful ambiance, and the chef's creations were a culinary masterpiece. A hidden gem worth revisiting!",
+                "name": "Edgar Allan Poe",
+                "title": "⭐⭐⭐⭐⭐"
+              },
+            {
+                "quote":
+                  "The staff here is fantastic—so warm and welcoming. The service made the experience memorable. The food was good, but the friendly atmosphere stole the show.",
+                "name": "Jane Austen",
+                "title": "⭐⭐⭐⭐⭐"
+              },
+            {
+                "quote":
+                  "Outstanding service paired with an exquisite menu. Each dish showcased culinary expertise. The ambiance was perfect for a special occasion. Highly recommend for a memorable dining experience.",
+                "name": "Herman Melville",
+                "title": "⭐⭐⭐⭐⭐"
+              }
+          ]
+    },
+    "about": {
+      "title": "Some History On Us",
+      "cardTextColor": "#ffffff",
+      "content": [
+        {
+          "title": "The Rustic Workshop",
+          "subtitle": "Crafting Heritage Furniture since 1972",
+          "content": "Founded by a skilled carpenter, our workshop, \"TimberCraft Heritage,\" has been crafting timeless furniture pieces for over five decades. Each creation tells a story, merging traditional techniques with contemporary designs, making every piece a cherished part of homes."
+        },
+        {
+          "title": "From Bookworm to Bookstore",
+          "subtitle": "Pages of Passion Since '95",
+          "content": "Susan, a literature lover, turned her book collection into \"Book Haven.\" Growing from a corner shop, it's now a community hub, fostering a love for reading through book clubs and cozy reading nooks."
+        },
+        {
+          "title": "The Culinary Legacy",
+          "subtitle": "Comfort Since '88",
+          "content": "\"Homestead Kitchen,\" rooted in Grandma Maria's recipes, is a local favorite, preserving culinary traditions with comfort food that resonates deeply in the community."
+        }
+      ]
+    },
+    "location": {
+      "bigTitle": "Come find us!",
+      "subTitle": "We are open at suitable times to SUIT your needs!",
+      "subberTitle": "(Social Medias on the left? <-)",    
+      "pasteYourGoogleMapsEmbedIFrameHere": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4978326.063265343!2d-11.817053328392173!3d52.46422797607062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d0a98a6c1ed5df%3A0xf4e19525332d8ea8!2sEngland!5e0!3m2!1sen!2suk!4v1707755670615!5m2!1sen!2suk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"  
+    },
+    "email": "contact@fuelsite.com",
+    "footer": {
+      "footerTextColor": "#ffffff",
+      "companyName": "COMP NAME",
+      "privacyPolicy": "1. Introduction\n  1.1 We are committed to respecting your privacy.\n  1.2 This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information.\n\n2. Information We Collect\n  2.1 We may collect personal information that you provide voluntarily.\n  2.2 Information collected may include, but is not limited to, name, email address, and demographic information.\n\n3. How We Use Your Information\n  3.1 We use the information collected for various purposes, including providing and improving our services.\n  3.2 Your information may be used to personalize your experience and send you relevant content.\n\n4. Information Disclosure\n  4.1 We do not sell, trade, or otherwise transfer your personal information to third parties without your consent.\n  4.2 Exceptions may include trusted third parties assisting us in operating our website or servicing you.\n\n5. Security\n  5.1 We implement security measures to protect your personal information from unauthorized access.\n  5.2 However, no method of transmission over the internet or electronic storage is entirely secure.\n\n6. Cookies and Tracking Technologies\n  6.1 We may use cookies and similar technologies to enhance your experience on our website.\n  6.2 You can adjust your browser settings to refuse cookies, but some features of the site may not function properly.\n\n7. Third-Party Links\n  7.1 Our website may contain links to third-party websites.\n  7.2 We have no control over the content and privacy practices of these sites and encourage you to review their policies.\n\n8. Children’s Privacy\n  8.1 Our services are not directed to individuals under the age of 13.\n  8.2 We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe we have collected information about your child, please contact us.\n\n9. Changes to This Privacy Policy\n  9.1 We reserve the right to update or change our Privacy Policy at any time.\n  9.2 Changes will be effective upon posting the updated policy on the website.\n\n10. Contact Us\n  10.1 If you have any questions or concerns about our Privacy Policy, please contact us at [your email address].\n",
+      "termsAndConditions": "1. Acceptance of Terms\n  1.1 By using our services, you agree to these Terms and Conditions.\n\n2. User Conduct\n  2.1 You agree not to engage in prohibited activities while using our services.\n  2.2 Prohibited activities include unauthorized access and violating applicable laws.\n\n3. Intellectual Property\n  3.1 All content and materials on our platform are our intellectual property.\n  3.2 You may not use, reproduce, or distribute our content without permission.\n\n4. User Accounts\n  4.1 You are responsible for maintaining the confidentiality of your account.\n  4.2 Notify us immediately of any unauthorized use or security breaches.\n\n5. Limitation of Liability\n  5.1 We are not liable for any direct, indirect, or consequential damages.\n  5.2 We do not guarantee the accuracy or completeness of information on our platform.\n\n6. Governing Law\n  6.1 These Terms and Conditions are governed by the laws of [your jurisdiction].\n  6.2 Any disputes will be resolved through arbitration in accordance with [arbitration rules].\n\n7. Termination\n  7.1 We reserve the right to terminate or suspend your account for violations.\n  7.2 Termination does not relieve you of any obligations or liabilities.\n\n8. Changes to Terms\n  8.1 We may update or modify these Terms and Conditions at any time.\n  8.2 Continued use of our services after changes constitutes acceptance.\n\n9. Contact Us\n  9.1 If you have questions or concerns about our Terms and Conditions, contact us at [your email address]."
+    }
+}
